@@ -1,0 +1,41 @@
+brand_name,generic_name,manufacturer,price_pkr,quantity
+Panadol,Paracetamol,GSK Pakistan,45.00,150
+Paracetamol Forte,Paracetamol,Highnoon Laboratories,38.50,200
+Calpol,Paracetamol,GSK Pakistan,42.00,0
+Disprol,Paracetamol,Reckitt Pakistan,35.00,80
+Febrol,Paracetamol,Sami Pharmaceuticals,30.00,60
+Brufen,Ibuprofen,Abbott Pakistan,55.00,120
+Nurofen,Ibuprofen,Reckitt Pakistan,65.00,90
+Ibugesic,Ibuprofen,Sami Pharmaceuticals,48.00,0
+Advil,Ibuprofen,Pfizer Pakistan,70.00,45
+Fenon,Ibuprofen,Highnoon Laboratories,40.00,110
+Augmentin,Amoxicillin/Clavulanate,GSK Pakistan,320.00,75
+Curam,Amoxicillin/Clavulanate,Searle Pakistan,285.00,50
+Amoxyclav,Amoxicillin/Clavulanate,Highnoon Laboratories,260.00,0
+Clavam,Amoxicillin/Clavulanate,Sami Pharmaceuticals,275.00,40
+Moxclav,Amoxicillin/Clavulanate,Barrett Hodgson,295.00,65
+Amoxil,Amoxicillin,GSK Pakistan,180.00,100
+Moxypen,Amoxicillin,Highnoon Laboratories,155.00,85
+Ospamox,Amoxicillin,Searle Pakistan,165.00,0
+Trimox,Amoxicillin,Sami Pharmaceuticals,140.00,70
+Amoxin,Amoxicillin,Barrett Hodgson,148.00,55
+Gaviscon,Sodium Alginate,Reckitt Pakistan,210.00,60
+Flagyl,Metronidazole,Sanofi Pakistan,95.00,130
+Metrozole,Metronidazole,Highnoon Laboratories,75.00,110
+Metronida,Metronidazole,Sami Pharmaceuticals,68.00,0
+Nidazole,Metronidazole,Barrett Hodgson,80.00,90
+Zantac,Ranitidine,GSK Pakistan,140.00,70
+Raniheal,Ranitidine,Highnoon Laboratories,110.00,95
+Aciloc,Ranitidine,Searle Pakistan,105.00,4
+Rani-2,Ranitidine,Sami Pharmaceuticals,98.00,85
+Ranicare,Ranitidine,Barrett Hodgson,120.00,50
+Zyrtec,Cetirizine,UCB Pharma Pakistan,185.00,80
+Cetizine,Cetirizine,Highnoon Laboratories,145.00,65
+Rigix,Cetirizine,Searle Pakistan,160.00,0
+Allertek,Cetirizine,Sami Pharmaceuticals,138.00,55
+Cetzine,Cetirizine,Barrett Hodgson,130.00,3
+Neurobion,Vitamin B Complex,Merck Pakistan,220.00,90
+Becosules,Vitamin B Complex,Pfizer Pakistan,195.00,120
+Metavit,Vitamin B Complex,Highnoon Laboratories,175.00,0
+Benutrex,Vitamin B Complex,Sami Pharmaceuticals,165.00,75
+Polybion,Vitamin B Complex,Sanofi Pakistan,185.00,40
